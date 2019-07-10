@@ -29,6 +29,7 @@ class Sms extends CI_Controller {
           echo var_dump($e);
         }
 
-    }
+    }http://api.boke.test  // https://huanglong640.github.io/hello-world/
+13212345678  // 15059653181
 }
 
